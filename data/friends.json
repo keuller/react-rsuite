@@ -1,0 +1,27 @@
+[
+    {
+        "id": "333fdb8a-683b-4eb7-8c76-711e1f6e48b3",
+        "name": "Rachel Green",
+        "picture": ""
+    }, {
+        "id": "d71dbe08-cc0d-4542-a26d-4d0241f026f7",
+        "name": "Monica Geller",
+        "picture": ""
+    }, {
+        "id": "405fe203-ddb0-497b-b2f1-4f6ba36a3b19",
+        "name": "Phoebe Buffay",
+        "picture": ""
+    }, {
+        "id": "511e990a-033f-49fc-a0d6-713a62bdea9d",
+        "name": "Joey Tribbiani",
+        "picture": ""
+    }, {
+        "id": "83a63b83-b9db-4706-bb66-07cbc2bf6c2d",
+        "name": "Chandler Bing",
+        "picture": ""
+    }, {
+        "id": "faf4f2eb-e885-4523-b8da-602f4a84fd4f",
+        "name": "Ross Geller",
+        "picture": ""
+    } 
+]
